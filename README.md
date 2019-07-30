@@ -1,5 +1,5 @@
 # i春秋社区机器人
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 [![stars](https://img.shields.io/github/stars/0nise/ichunqiu_qqbot.svg)](https://github.com/0nise/ichunqiu_qqbot/stargazers) 
 [![license](https://img.shields.io/github/license/0nise/ichunqiu_qqbot.svg)](https://github.com/0nise/ichunqiu_qqbot/blob/master/LICENSE)
 
@@ -183,6 +183,7 @@ build.bat
   <tr>
     <td align="center"><a href="http://www.r4v3zn.com"><img src="https://avatars2.githubusercontent.com/u/18393907?v=4" width="100px;" alt="r4v3zn"/><br /><sub><b>r4v3zn</b></sub></a><br /><a href="https://github.com/0nise/ichunqiu_qqbot/commits?author=0nise" title="Documentation">📖</a> <a href="https://github.com/0nise/ichunqiu_qqbot/commits?author=0nise" title="Code">💻</a> <a href="#eventOrganizing-0nise" title="Event Organizing">📋</a> <a href="#projectManagement-0nise" title="Project Management">📆</a> <a href="#tutorial-0nise" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://0x20h.com"><img src="https://avatars3.githubusercontent.com/u/33349032?v=4" width="100px;" alt="Sp4ce"/><br /><sub><b>Sp4ce</b></sub></a><br /><a href="#maintenance-NS-Sp4ce" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://gh0st.cn"><img src="https://avatars1.githubusercontent.com/u/24655118?v=4" width="100px;" alt="key"/><br /><sub><b>key</b></sub></a><br /><a href="https://github.com/0nise/ichunqiu_qqbot/issues?q=author%3Agh0stkey" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 

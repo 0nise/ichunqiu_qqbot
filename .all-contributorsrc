@@ -31,6 +31,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "gh0stkey",
+      "name": "key",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/24655118?v=4",
+      "profile": "https://gh0st.cn",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7
