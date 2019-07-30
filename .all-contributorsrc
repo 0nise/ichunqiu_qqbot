@@ -22,6 +22,15 @@
         "projectManagement",
         "tutorial"
       ]
+    },
+    {
+      "login": "NS-Sp4ce",
+      "name": "Sp4ce",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33349032?v=4",
+      "profile": "https://0x20h.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7
