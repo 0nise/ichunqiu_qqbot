@@ -7,6 +7,22 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
-  "contributors":[]
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "0nise",
+      "name": "r4v3zn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18393907?v=4",
+      "profile": "http://www.r4v3zn.com",
+      "contributions": [
+        "doc",
+        "code",
+        "eventOrganizing",
+        "projectManagement",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
