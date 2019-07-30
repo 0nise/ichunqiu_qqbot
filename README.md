@@ -1,6 +1,5 @@
 # i春秋社区机器人
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-
 [![stars](https://img.shields.io/github/stars/0nise/ichunqiu_qqbot.svg)](https://github.com/0nise/ichunqiu_qqbot/stargazers) 
 [![license](https://img.shields.io/github/license/0nise/ichunqiu_qqbot.svg)](https://github.com/0nise/ichunqiu_qqbot/blob/master/LICENSE)
 
